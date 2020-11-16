@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "despliegue"
+    }
+  },
+  "defaultProject": "despliegue",
+  "cli": {
+    "analytics": "d41e0514-df70-4dbf-9e55-94f8e41d655e"
+  }
 }
